@@ -1,12 +1,12 @@
 # search-project
 displays the project's layout and uses regex to find patterns in the projects files
 
-## install
+## how to install
 ```bash
 bash install.sh
 ```
 
-## example
+## how to use
 ```bash
 search-project /path/to/project "regex/string query"
 ```
